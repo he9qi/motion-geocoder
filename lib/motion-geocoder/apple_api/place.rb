@@ -2,19 +2,23 @@ module MotionGeocoder
   module AppleApi
     module Place
       @@local_search = nil
-
-      def self.auto_complete(input, params={}, &block)
+      
+      def self.build_request(input, params)
         lat = params[:lat]
         lng = params[:lng]
         rad = params[:radius] || 5000
-
-        @@local_search.cancel if !!@@local_search
-
-        region = MKCoordinateRegionMakeWithDistance \
-          CLLocationCoordinate2DMake(lat, lng), rad, rad
+        
+        region = MKCoordinateRegionMakeWithDistance CLLocationCoordinate2DMake(lat, lng), rad, rad
         request = MKLocalSearchRequest.alloc.init
         request.region = region
         request.naturalLanguageQuery = NSString.stringWithUTF8String(input)
+        request
+      end
+
+      def self.auto_complete(input, params={}, &block)
+        @@local_search.cancel if !!@@local_search
+        
+        request = build_request input, params
 
         @@local_search = MKLocalSearch.alloc.initWithRequest request
         @@local_search.startWithCompletionHandler lambda {|response, e|
