@@ -1,0 +1,366 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1800",
+               "short_name" : "1800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ellis Street",
+               "short_name" : "Ellis St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tenderloin",
+               "short_name" : "Tenderloin",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94115",
+               "short_name" : "94115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1800 Ellis Street, San Francisco, CA 94115, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.785868,
+               "lng" : -122.4064973
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7872169802915,
+                  "lng" : -122.4051483197085
+               },
+               "southwest" : {
+                  "lat" : 37.7845190197085,
+                  "lng" : -122.4078462802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tenderloin",
+               "short_name" : "Tenderloin",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tenderloin, San Francisco, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.7878162,
+                  "lng" : -122.4046888
+               },
+               "southwest" : {
+                  "lat" : 37.780043,
+                  "lng" : -122.421416
+               }
+            },
+            "location" : {
+               "lat" : 37.7846598,
+               "lng" : -122.4145058
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7878162,
+                  "lng" : -122.4046888
+               },
+               "southwest" : {
+                  "lat" : 37.780043,
+                  "lng" : -122.421416
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "94102",
+               "short_name" : "94102",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Francisco, CA 94102, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.789226,
+                  "lng" : -122.4034491
+               },
+               "southwest" : {
+                  "lat" : 37.7694409,
+                  "lng" : -122.429849
+               }
+            },
+            "location" : {
+               "lat" : 37.7786871,
+               "lng" : -122.4212424
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.789226,
+                  "lng" : -122.4034491
+               },
+               "southwest" : {
+                  "lat" : 37.7694409,
+                  "lng" : -122.429849
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Francisco, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9297707,
+                  "lng" : -122.3279149
+               },
+               "southwest" : {
+                  "lat" : 37.6933354,
+                  "lng" : -123.1077733
+               }
+            },
+            "location" : {
+               "lat" : 37.7749295,
+               "lng" : -122.4194155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.812,
+                  "lng" : -122.3482
+               },
+               "southwest" : {
+                  "lat" : 37.70339999999999,
+                  "lng" : -122.527
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Francisco County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9297707,
+                  "lng" : -122.3279149
+               },
+               "southwest" : {
+                  "lat" : 37.6933354,
+                  "lng" : -123.1077733
+               }
+            },
+            "location" : {
+               "lat" : 37.7749073,
+               "lng" : -122.4193878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.833827,
+                  "lng" : -122.3569945
+               },
+               "southwest" : {
+                  "lat" : 37.7080859,
+                  "lng" : -122.5300999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.5342321,
+                  "lng" : -124.4096196
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.5342321,
+                  "lng" : -124.4096196
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.389888,
+                  "lng" : -66.94976079999999
+               },
+               "southwest" : {
+                  "lat" : 18.9110642,
+                  "lng" : 172.4458955
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

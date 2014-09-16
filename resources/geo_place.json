@@ -1,0 +1,180 @@
+{
+   "predictions" : [
+      {
+         "description" : "1155 College View Drive, Monterey Park, CA, United States",
+         "id" : "21da9e9ee7c8f50b1f16148f8e1a2e9c3024d935",
+         "matched_substrings" : [
+            {
+               "length" : 4,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJVSP-lI_PwoARS4DUKGf8L84",
+         "reference" : "CmRRAAAANJvJRbq8E4Z9MtTEh7xIe1AUDBPGUHdolCLVuN7EZCvXlHS1XdHHbo8cdFymM9pDv4goSAM4xIHxLpH_ldiE_VsX9cNF3Ta3iuL41bf6P1tYBpSDoU4jVzMShFAVAnJdEhDvOdOMDgTN35GddfF7FpU_GhSAomeM45TKH7KTKBSuXdbk0iVtjg",
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "1155"
+            },
+            {
+               "offset" : 5,
+               "value" : "College View Drive"
+            },
+            {
+               "offset" : 25,
+               "value" : "Monterey Park"
+            },
+            {
+               "offset" : 40,
+               "value" : "CA"
+            },
+            {
+               "offset" : 44,
+               "value" : "United States"
+            }
+         ],
+         "types" : [ "street_address", "geocode" ]
+      },
+      {
+         "description" : "1155 West Temple Street, Los Angeles, CA, United States",
+         "id" : "8445a723a1b856ae97e2db3d1cddc14bbd8dd533",
+         "matched_substrings" : [
+            {
+               "length" : 4,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJ5Q4cSVXGwoAR6i3E9vxElaQ",
+         "reference" : "ClRPAAAABIA1nLLW10utk93CrznDB7qJfYBaDlTFGTdwGX6NyQrRFFdS6adT0Yo8v2yZqCPbM6i47Tk_IZ-r2fNqJVoEWFJmrXn5EptuyXrr62DlUxMSEAXntemPzzKsjQaeqACQJwwaFH_p9iemxExqN5TfSk3EWkff7tQC",
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "1155"
+            },
+            {
+               "offset" : 5,
+               "value" : "West Temple Street"
+            },
+            {
+               "offset" : 25,
+               "value" : "Los Angeles"
+            },
+            {
+               "offset" : 38,
+               "value" : "CA"
+            },
+            {
+               "offset" : 42,
+               "value" : "United States"
+            }
+         ],
+         "types" : [ "street_address", "geocode" ]
+      },
+      {
+         "description" : "11555 Santa Gertrudes Avenue, La Mirada, CA, United States",
+         "id" : "cd508cc0aa4f801f409423506dd3ba16b9d23478",
+         "matched_substrings" : [
+            {
+               "length" : 4,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJ4bm4MTYr3YARspy5Nf3JcNY",
+         "reference" : "CmRSAAAAAo3C8Vvjb5ulejUaBRYkSKqpMjRgKFRW9WruPtSZbhy805OFlXG4j0BWntH5Tg3lSI54vQWmnndmJ193HPT-V2gvFDvfnM8UREUCo1BA15YMxH_zvKwh0ZhrYowiWx0dEhD6ZGn-hZS_NNRWOSSMUzuLGhQk6YXBInYyrSTK1aaGpGsIynAtvA",
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "11555"
+            },
+            {
+               "offset" : 6,
+               "value" : "Santa Gertrudes Avenue"
+            },
+            {
+               "offset" : 30,
+               "value" : "La Mirada"
+            },
+            {
+               "offset" : 41,
+               "value" : "CA"
+            },
+            {
+               "offset" : 45,
+               "value" : "United States"
+            }
+         ],
+         "types" : [ "street_address", "geocode" ]
+      },
+      {
+         "description" : "1155 North La Cienega Boulevard, West Hollywood, CA, United States",
+         "id" : "d002d3039699f5c74cf2b4c2e008b8c4f9d70d48",
+         "matched_substrings" : [
+            {
+               "length" : 4,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJG-QBFby-woARsWT1_aar_Wg",
+         "reference" : "CmRaAAAADnMEUi4FLH7AEIiUpzLSqBYos8kUc7PkUVUIHz1F0CajoVbHcs0fsRdy0DPgvPnEdouAnTvr1L1p5rh6ZcPGBdxy_8YVffltA-bNIz0Li5cvhv9q7dgBeMHLoRjuZtFmEhAgn-jn8RKeMqihLxn97x8pGhQXxda-KwF91N8I7UGTE-cg-mwnEw",
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "1155"
+            },
+            {
+               "offset" : 5,
+               "value" : "North La Cienega Boulevard"
+            },
+            {
+               "offset" : 33,
+               "value" : "West Hollywood"
+            },
+            {
+               "offset" : 49,
+               "value" : "CA"
+            },
+            {
+               "offset" : 53,
+               "value" : "United States"
+            }
+         ],
+         "types" : [ "street_address", "geocode" ]
+      },
+      {
+         "description" : "1155 West Newmark Avenue, Monterey Park, CA, United States",
+         "id" : "96345da64ef82f51afb633debda55b74f080271b",
+         "matched_substrings" : [
+            {
+               "length" : 4,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJ943VgmbFwoAR4qqz3FCgbNQ",
+         "reference" : "CmRSAAAAMwXPxdvsWDcPxpKDReZtAMnwG6Z8Dr0v3FXtHo2wF3_7ANgqiJ_G5omLXLlof6T1zYvxA62EPi21TUzcTiaDhqh4vbtL3uQSz4v1rYLSrBC9ejBxbiQ3v5ov2u1BjviIEhA8Tpt1C45Fp2JGxlzIyDsuGhRh6sV_XAtCUBtOs3kFuUtk_7wVvg",
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "1155"
+            },
+            {
+               "offset" : 5,
+               "value" : "West Newmark Avenue"
+            },
+            {
+               "offset" : 26,
+               "value" : "Monterey Park"
+            },
+            {
+               "offset" : 41,
+               "value" : "CA"
+            },
+            {
+               "offset" : 45,
+               "value" : "United States"
+            }
+         ],
+         "types" : [ "street_address", "geocode" ]
+      }
+   ],
+   "status" : "OK"
+}
