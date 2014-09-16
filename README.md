@@ -1,5 +1,6 @@
 Geocoder API for RubyMotion
 ====================
+[![Code Climate](https://codeclimate.com/github/he9qi/motion-geocoder.png)](https://codeclimate.com/github/he9qi/motion-geocoder)
 
 RubyMotion wrapper for 
 #### Google 
