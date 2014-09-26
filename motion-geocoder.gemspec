@@ -14,6 +14,7 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   s.files         = Dir.glob('lib/**/*.rb')
+  s.files         << 'README.md'
   s.require_paths = ['lib']
   s.test_files    = Dir.glob('spec/**/*.rb')
 
